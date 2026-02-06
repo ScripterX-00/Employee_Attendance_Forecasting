@@ -1,5 +1,5 @@
 ## Employee_Attendance_Forecasting
-Project Overview
+📌 Project Overview
 
 This project focuses on analyzing and forecasting employee attendance behavior, specifically Late Arrival and Early Departure, using historical attendance data.
 Machine Learning models are applied to identify patterns, perform predictions, and support workforce planning and HR decision-making.
@@ -135,6 +135,7 @@ EarlyDeparture       0.83      0.84      0.83      3589
 The model simultaneously predicts:
 - Late Arrival
 - Early Departure
+
 This is achieved using MultiOutputClassifier, which allows one model to handle multiple dependent outputs.
 
 ## Model Performance
