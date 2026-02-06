@@ -149,5 +149,5 @@ Overall Accuracy: 75%
 - Cloud deployment
 
 ##  Author
-This project was developed by an Intern Team at Capsitech as part of an internship program during the period 20 July 2025 to 10 August 2025.
+This project was developed by an Intern Team at Capsitech (https://www.capsitech.com/) as part of an internship program during the period 20 July 2025 to 10 August 2025.
 I was an active member of the intern development team during the internship period from 1 July 2025 to 15 August 2025.
